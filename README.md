@@ -70,7 +70,6 @@ Part2 - JDBC API
 
 Objectives
 
-Upon completion of this assignment, you will be able to:
 - Implements JDBC standard interface
 - Integrate JDBC interface with your earlier DBMS implementation
 - Apply different design patterns to your model
